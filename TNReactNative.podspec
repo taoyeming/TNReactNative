@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TNReactNative'
-  s.version          = '0.62.2.patch.1'
+  s.version          = '0.62.2.1'
   s.summary          = 'A short description of TNReactNative.'
 
 # This description is used to generate tags and improve search results.
